@@ -1,0 +1,19 @@
+# Generated from CLion Inspection settings
+---
+Checks: '*,
+-OCUnusedGlobalDeclarationInspection,
+-hicpp-signed-bitwise,
+-hicpp-named-parameter,
+-*-braces-around-statements,
+-*-non-private-member-variables-in-classes,
+-*-use-trailing-return-type,
+-llvmlibc-*,
+-*-overloaded-operator,
+-*-named-parameter,
+-*-unroll-loops,
+-*-struct-pack-align,
+-*-id-dependent-backward-branch,
+-*-implicit-bool-conversion,
+-*-default-arguments-declarations,
+-*-default-arguments-calls,
+'
